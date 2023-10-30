@@ -1,0 +1,16 @@
+{
+  "name": "video_uploader_server",
+  "version": "1.0.0",
+  "description": "custom server for video uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "Gokuldeep Sathyan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
+}
